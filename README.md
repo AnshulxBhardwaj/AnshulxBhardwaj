@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anshul Bhardwaj</h1>
+<h1 align="center">Hi 👋 I'm Anshul Bhardwaj</h1>
 <h3 align="center">I am a passionate Business Intelligence Engineer with Product leanings!</h3>
 
 - 🌱 I’m currently learning **Cloud Resources, Tableau Certification**
